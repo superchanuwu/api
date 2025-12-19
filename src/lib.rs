@@ -121,7 +121,7 @@ fn link(_: Request, cx: RouteContext<Config>) -> Result<Response> {
             "net": "ws",
             "type": "none",
             "host": host,
-            "path": "/KR",
+            "path": "/US",
             "tls": "",
             "sni": "",
             "alpn": ""}
