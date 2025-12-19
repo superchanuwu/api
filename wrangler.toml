@@ -9,7 +9,7 @@ account_id = "1c7ad8f36592fe79b4bbc4837176556a"
 
 [[kv_namespaces]]
 binding = "API"
-id = "1364ab6d6e8e4d279f5c9d7d84c6e2c9"
+id = "bd8019e6aa8541f6a3ffeade6d6d9c07"
 
 [build]
 command = "cargo install worker-build && worker-build --release"
